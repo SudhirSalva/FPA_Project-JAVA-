@@ -1,0 +1,8 @@
+<servlet>
+    <servlet-name>ContributeServlet</servlet-name>
+    <servlet-class>ContributeServlet</servlet-class>
+</servlet>
+<servlet-mapping>
+    <servlet-name>ContributeServlet</servlet-name>
+    <url-pattern>/ContributeServlet</url-pattern>
+</servlet-mapping>
